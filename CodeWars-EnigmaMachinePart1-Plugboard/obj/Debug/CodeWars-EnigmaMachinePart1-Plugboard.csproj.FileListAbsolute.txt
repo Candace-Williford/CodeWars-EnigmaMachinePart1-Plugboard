@@ -1,0 +1,6 @@
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-EnigmaMachinePart1-Plugboard\CodeWars-EnigmaMachinePart1-Plugboard\bin\Debug\CodeWars-EnigmaMachinePart1-Plugboard.exe.config
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-EnigmaMachinePart1-Plugboard\CodeWars-EnigmaMachinePart1-Plugboard\bin\Debug\CodeWars-EnigmaMachinePart1-Plugboard.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-EnigmaMachinePart1-Plugboard\CodeWars-EnigmaMachinePart1-Plugboard\bin\Debug\CodeWars-EnigmaMachinePart1-Plugboard.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-EnigmaMachinePart1-Plugboard\CodeWars-EnigmaMachinePart1-Plugboard\obj\Debug\CodeWars-EnigmaMachinePart1-Plugboard.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-EnigmaMachinePart1-Plugboard\CodeWars-EnigmaMachinePart1-Plugboard\obj\Debug\CodeWars-EnigmaMachinePart1-Plugboard.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-EnigmaMachinePart1-Plugboard\CodeWars-EnigmaMachinePart1-Plugboard\obj\Debug\CodeWars-EnigmaMachinePart1-Plugboard.pdb
